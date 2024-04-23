@@ -1,9 +1,9 @@
 {
   "name":"Codespace forSkills!",
-  "customization":{
+  "customizations":{
     "vscode":{
-      ""extentison":[
-        "GiHub.copilot"
+      "extentison":[
+        "GitHub.copilot"
       ]
     }
   }
