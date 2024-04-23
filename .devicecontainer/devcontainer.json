@@ -1,0 +1,10 @@
+{
+  "name":"Codespace forSkills!",
+  "customization":{
+    "vscode":{
+      ""extentison":[
+        "GiHub.copilot"
+      ]
+    }
+  }
+}
